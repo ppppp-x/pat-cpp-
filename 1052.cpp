@@ -7,10 +7,10 @@ void parse(string &line,vector<string> &str){
     for(char c : line){
         if(c == '['){
             inside = true;
+            temp = "";
         }else if( c == ']'){
             str.push_back(temp);
             inside = false;
-            temp = "";
         }else if(inside){
             temp = temp + c;
         }
