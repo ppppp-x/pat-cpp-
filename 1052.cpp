@@ -53,6 +53,5 @@ int main(){
             
         }else cout<<"Are you kidding me? @\\/@"<<endl;
     }
-         
     return 0;
 }
