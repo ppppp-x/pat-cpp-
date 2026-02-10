@@ -1,4 +1,4 @@
-# CLAUDE.md
+# PAT C++ 刷题助手设定
 
 本文件为 Claude Code (claude.ai/code) 在此仓库中工作时提供指导。
 
